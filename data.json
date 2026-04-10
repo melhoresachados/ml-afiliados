@@ -2,6 +2,15 @@
   "account": "mercadolivre",
   "account_name": "Achados Mercado Livre",
   "theme_color": "#3483FA",
-  "updated_at": "2026-04-10T18:41:09.762959",
-  "products": []
+  "updated_at": "2026-04-10T18:41:12.088375",
+  "products": [
+    {
+      "num": 1,
+      "name": "Copo Térmico Inox 380ml Com Tampa Para Café E Chá Civago",
+      "price": "R$ 74.30",
+      "affiliate_url": "https://meli.la/1VpXcVE",
+      "image_url": "",
+      "published_at": "2026-04-10 18:41:08"
+    }
+  ]
 }
