@@ -2,7 +2,7 @@
   "account": "mercadolivre",
   "account_name": "Achados Mercado Livre",
   "theme_color": "#FFE600",
-  "updated_at": "2026-04-10T19:04:42.353619",
+  "updated_at": "2026-04-10T19:07:19.601784",
   "products": [
     {
       "num": 1,
@@ -12,5 +12,6 @@
       "image_url": "images/produto_1.webp",
       "published_at": "2026-04-10 18:41:08"
     }
-  ]
+  ],
+  "theme_text_color": "#111111"
 }
