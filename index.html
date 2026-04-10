@@ -71,7 +71,7 @@ function render(list){
     const img=p.image_url
       ?`<img class="card-img" src="${p.image_url}" alt="${p.name}" loading="lazy" onerror="this.style.display='none'">`
       :`<div class="card-placeholder">🛍️</div>`;
-    return`<div class="card">${img}<div class="card-body"><span class="card-num">#${p.num}</span><div class="card-name">${p.name}</div><div class="card-price">${p.price||''}</div><a class="card-btn" href="${p.affiliate_url||'#'}" target="_blank" rel="nofollow sponsored">Ver Produto</a></div></div>`;
+    return`<div class="card">${img}<div class="card-body"><span class="card-num">#${p.num}</span><div class="card-name">${p.name}</div><div class="card-price">${p.price||''}</div><a class="card-btn" href="${p.affiliate_url||'#'}" rel="nofollow sponsored">Ver Produto</a></div></div>`;
   }).join('');
 }
 document.getElementById('num-input').addEventListener('input',function(){
