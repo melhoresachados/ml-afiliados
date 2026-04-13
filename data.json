@@ -2,7 +2,8 @@
   "account": "mercadolivre",
   "account_name": "Price Best Net",
   "theme_color": "#FFE600",
-  "updated_at": "2026-04-13T10:25:32.983958",
+  "updated_at": "2026-04-13T10:44:00.685975",
   "products": [],
-  "theme_text_color": "#111111"
+  "theme_text_color": "#111111",
+  "header_banner_url": ""
 }
