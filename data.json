@@ -2,8 +2,21 @@
   "account": "mercadolivre",
   "account_name": "Price Best Net",
   "theme_color": "#1E4FAF",
-  "updated_at": "2026-04-14T19:36:39.543288",
+  "updated_at": "2026-04-15T16:22:15.998953",
   "products": [
+    {
+      "id": "07bffbc1-dde4-4bce-8686-a34ba630f953",
+      "num": 2,
+      "name": "Smartphone Oppo A6t",
+      "price": "",
+      "affiliate_url": "https://meli.la/27EkdLy",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/mercadolivre/images/produto_2_smartphone-oppo-a6t.webp",
+      "badge_text": "Cupom Disponivel!",
+      "has_coupon": true,
+      "is_flash": true,
+      "is_popular": false,
+      "published_at": "2026-04-15 16:21"
+    },
     {
       "id": "7823fa3d-0d96-4cbc-ae26-f06bcb478548",
       "num": 1,
