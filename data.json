@@ -2,8 +2,21 @@
   "account": "mercadolivre",
   "account_name": "Price Best Net",
   "theme_color": "#1E4FAF",
-  "updated_at": "2026-04-20T14:17:17.548353",
+  "updated_at": "2026-04-20T19:24:54.593024",
   "products": [
+    {
+      "id": "f14d605f-da87-468f-ad20-ecf7dba5092f",
+      "num": 4,
+      "name": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
+      "price": "",
+      "affiliate_url": "https://meli.la/15Ci1Dp",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/mercadolivre/images/produto_4_smartwatch-samsung-galaxy-fit3-display-1-6-ros.webp",
+      "badge_text": "Super Oferta!",
+      "has_coupon": false,
+      "is_flash": true,
+      "is_popular": true,
+      "published_at": "2026-04-20 19:24"
+    },
     {
       "id": "a1f86375-6dc6-490c-9393-533843af3c84",
       "num": 3,
