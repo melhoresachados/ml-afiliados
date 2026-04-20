@@ -2,8 +2,21 @@
   "account": "mercadolivre",
   "account_name": "Price Best Net",
   "theme_color": "#1E4FAF",
-  "updated_at": "2026-04-15T16:22:15.998953",
+  "updated_at": "2026-04-20T14:17:17.548353",
   "products": [
+    {
+      "id": "a1f86375-6dc6-490c-9393-533843af3c84",
+      "num": 3,
+      "name": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Cinza",
+      "price": "",
+      "affiliate_url": "https://meli.la/1Dnmvr3",
+      "image_url": "https://http2.mlstatic.com/D_NQ_NP_617918-MLA96431049734_102025-F.jpg",
+      "badge_text": "Super Oferta!",
+      "has_coupon": false,
+      "is_flash": true,
+      "is_popular": true,
+      "published_at": ""
+    },
     {
       "id": "07bffbc1-dde4-4bce-8686-a34ba630f953",
       "num": 2,
